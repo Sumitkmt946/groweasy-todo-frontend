@@ -3,8 +3,8 @@
 
 `groweasy-todo-frontend/README.md` me:
 
-```md
-# GrowEasy Todo App (React Native + Web)
+
+## GrowEasy Todo App (React Native + Web)
 
 Simple Todo app built with **React Native (Expo)** and **React Navigation**, using the FastAPI backend.
 
@@ -34,7 +34,7 @@ Simple Todo app built with **React Native (Expo)** and **React Navigation**, usi
 npm install
 npm start
 # press "w" to open in browser
-
+```
 By default app expects backend at:
 ```bash
 http://127.0.0.1:8000
