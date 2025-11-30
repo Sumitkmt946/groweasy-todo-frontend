@@ -42,6 +42,48 @@ To learn more about developing your project with Expo, look at the following res
 - [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
 - [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
 
+  
+Bas itna kaafi hai.
+
+---
+
+## 3️⃣ Frontend README + Screenshots
+
+`groweasy-todo-frontend/README.md` me:
+
+```md
+# GrowEasy Todo App (React Native + Web)
+
+Simple Todo app built with **React Native (Expo)** and **React Navigation**, using the FastAPI backend.
+
+## Tech Stack
+
+- React Native (Expo)
+- React Native Web (for testing on browser)
+- React Navigation (stack + bottom tabs)
+- Axios
+- AsyncStorage (to store JWT token)
+
+## Features
+
+- Signup / Login
+- Persisted auth (token stored in AsyncStorage)
+- Todo list:
+  - Create todo
+  - Mark as complete / undo
+  - Pull-to-refresh
+- Profile screen:
+  - Show name & email
+  - Logout
+
+## Setup & Run (Web)
+
+```bash
+npm install
+npm start
+# press "w" to open in browser
+
+
 ## Join the community
 
 Join our community of developers creating universal apps.
