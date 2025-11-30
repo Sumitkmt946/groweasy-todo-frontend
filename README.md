@@ -35,19 +35,10 @@ npm run reset-project
 
 This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-  
-Bas itna kaafi hai.
 
 ---
 
-## 3️⃣ Frontend README + Screenshots
+## Frontend README + Screenshots
 
 `groweasy-todo-frontend/README.md` me:
 
@@ -83,10 +74,51 @@ npm install
 npm start
 # press "w" to open in browser
 
+By default app expects backend at:
+```bash
+http://127.0.0.1:8000
+```
 
-## Join the community
+You can change this in src/api/client.js if needed.
 
-Join our community of developers creating universal apps.
+## Screenshots
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- Login screen
+- Signup screen
+- Todo list
+- Profile screen
+
+  
+📸 **Screenshots lo**:
+
+- Login screen
+- Signup screen
+- Todos screen (1–2 todos)
+- Profile screen
+
+Inko project ke andar `screenshots/` folder me save kar sakte ho, ya README ke sath attach kar sakte ho GitHub pe.
+
+---
+
+## 4️⃣ GitHub pe upload (2 alag repos)
+
+### A. Backend repo
+
+Terminal:
+
+```bash
+cd C:\Users\ashok\Desktop\Project\groweasy-todo-backend
+
+git init
+git add .
+git commit -m "GrowEasy backend - FastAPI todo app"
+
+# GitHub pe naya repo banao, naam jaise:
+# groweasy-todo-backend
+
+git remote add origin <repo-url>
+git branch -M main
+git push -u origin main
+
+
+
