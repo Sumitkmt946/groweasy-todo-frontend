@@ -59,6 +59,62 @@ You can change this in src/api/client.js if needed.
 <img width="349" height="691" alt="image" src="https://github.com/user-attachments/assets/10d07df9-0c29-42b2-84b7-b5a8e74c044b" />
 
 
+# 📱 GrowEasy Todo App – React Native (Expo)
+
+A clean, modern, mobile-first Todo Application built as part of the **GrowEasy Internship / Full-Time Assignment**.
+
+## 🚀 Tech Stack
+- React Native + Expo
+- TypeScript
+- Axios
+- React Navigation
+- Context API
+
+## 🎨 Screenshots
+(Add images here)
+
+## ✨ Features
+- Signup / Login
+- Dashboard with todos
+- Add + Complete tasks
+- Profile screen
+- Modern UI with gradients
+
+## 🧭 Navigation
+Auth Stack → Login / Signup  
+Main App → Dashboard, Profile
+
+## ⚙️ Setup
+npm install
+npm start
+
+
+## 🔗 API Base URL
+Configured in `src/api/client.js`
+
+## 📁 Structure
+src/ → api, components, navigation, screens, context
+
+## ⭐ Assignment Requirements
+✔ UI / UX  
+✔ Auth  
+✔ CRUD Todos  
+✔ FastAPI Integration  
+✔ README with screenshots  
+
+## 🚀 Submission
+Frontend Repo:  
+
+
+Backend Repo:  
+
+
+## 🙌 Author
+**Sumit Kumawat**
+
+
+
+
 
 
 
