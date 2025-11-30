@@ -51,13 +51,4 @@ You can change this in src/api/client.js if needed.
 
   
 📸 
-
-
-
-
-git remote add origin <repo-url>
-git branch -M main
-git push -u origin main
-
-
-
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FImage&psig=AOvVaw08WE7wXfBlc8u3INu8e_uu&ust=1764586870254000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCLyr3cmZEDFQAAAAAdAAAAABAE
