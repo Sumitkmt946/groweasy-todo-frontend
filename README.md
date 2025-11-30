@@ -1,22 +1,4 @@
 
-
-## Screenshots
-
-- Login screen
-- Signup screen
-- Todo list
-- Profile screen
-
-  
-📸 
-<img width="348" height="692" alt="image" src="https://github.com/user-attachments/assets/74058709-24fd-4e00-9d3d-67ef00acbbe7" />
-<img width="349" height="691" alt="image" src="https://github.com/user-attachments/assets/b1e6fe14-03d8-47d4-b3da-814ebac811ce" />
-
-
-<img width="349" height="690" alt="image" src="https://github.com/user-attachments/assets/77b36db9-412d-4881-b8c7-777a21296315" />
-<img width="349" height="691" alt="image" src="https://github.com/user-attachments/assets/10d07df9-0c29-42b2-84b7-b5a8e74c044b" />
-
-
 # 📱 GrowEasy Todo App – React Native (Expo)
 
 A clean, modern, mobile-first Todo Application built as part of the **GrowEasy Internship / Full-Time Assignment**.
