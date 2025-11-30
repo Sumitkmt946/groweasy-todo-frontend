@@ -50,18 +50,8 @@ You can change this in src/api/client.js if needed.
 - Profile screen
 
   
-📸 **Screenshots lo**:
+📸 
 
-blob:https://web.whatsapp.com/6a54f47e-088b-49d3-bc45-20b5064e3d12
-
-- Login screen 
-- Signup screen
-- Todos screen (1–2 todos)
-- Profile screen
-
-Inko project ke andar `screenshots/` folder me save kar sakte ho, ya README ke sath attach kar sakte ho GitHub pe.
-
----
 
 
 
