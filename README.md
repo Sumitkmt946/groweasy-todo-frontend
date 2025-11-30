@@ -1,44 +1,5 @@
-# Welcome to your Expo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
-
-## Get started
-
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-
----
-
-## Frontend README + Screenshots
+# Frontend README + Screenshots
 
 `groweasy-todo-frontend/README.md` me:
 
@@ -91,7 +52,9 @@ You can change this in src/api/client.js if needed.
   
 📸 **Screenshots lo**:
 
-- Login screen
+blob:https://web.whatsapp.com/6a54f47e-088b-49d3-bc45-20b5064e3d12
+
+- Login screen 
 - Signup screen
 - Todos screen (1–2 todos)
 - Profile screen
@@ -100,21 +63,7 @@ Inko project ke andar `screenshots/` folder me save kar sakte ho, ya README ke s
 
 ---
 
-## 4️⃣ GitHub pe upload (2 alag repos)
 
-### A. Backend repo
-
-Terminal:
-
-```bash
-cd C:\Users\ashok\Desktop\Project\groweasy-todo-backend
-
-git init
-git add .
-git commit -m "GrowEasy backend - FastAPI todo app"
-
-# GitHub pe naya repo banao, naam jaise:
-# groweasy-todo-backend
 
 git remote add origin <repo-url>
 git branch -M main
