@@ -51,5 +51,5 @@ You can change this in src/api/client.js if needed.
 
   
 📸 
-<img width="651" height="263" alt="image" src="https://github.com/user-attachments/assets/24b87119-43f3-4740-a86c-8564fb1e0cd3" />
+
 
