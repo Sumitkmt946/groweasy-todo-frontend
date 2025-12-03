@@ -56,10 +56,10 @@ src/ → api, components, navigation, screens, context
 
 ## 🚀 Submission
 Frontend Repo:  
-https://github.com/Sumitkmt946/groweasy-todo-backend
+https://github.com/Sumitkmt946/groweasy-todo-frontend
 
 Backend Repo:  
-https://github.com/Sumitkmt946/groweasy-todo-frontend
+https://github.com/Sumitkmt946/groweasy-todo-backend
 
 ## 🙌 Author
 **Sumit Kumawat**
